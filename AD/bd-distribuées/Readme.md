@@ -5,3 +5,5 @@ dont la gestion est traitée par un réseau d'ordinateurs interconnectés qui st
 Ce stockage peut être soit partitionné entre différents nœuds du réseau, soit répliqué entièrement sur chacun d'eux, 
 ou soit organisé de façon hybride.
 
+![](image.png)
+
