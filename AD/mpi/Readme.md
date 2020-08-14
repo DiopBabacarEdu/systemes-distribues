@@ -17,4 +17,5 @@ Bonne lecture !
 
 
 Source de l'image: https://computing.llnl.gov/tutorials/mpi/
+
 Contenu du texte: https://fr.wikipedia.org/wiki/Message_Passing_Interface
