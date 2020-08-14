@@ -10,6 +10,9 @@ En effet, la vitesse de traitement qui est liée à l'augmentation de la fréque
 La création de processeurs multi-cœurs, traitant plusieurs instructions en même temps au sein du même composant, 
 résout ce dilemme pour les machines de bureau depuis le milieu des années 2000.
 
+![](parallel.png)
+Source: https://www.omnisci.com/technical-glossary/parallel-computing
+
 Le calcul parallèle est incontournable dans certains domaines : 
 - la dynamique des fluides, 
 - les prédictions météorologiques, 
