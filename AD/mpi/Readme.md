@@ -10,6 +10,7 @@ sur des ***systèmes à mémoire distribuée***. Elle définit une bibliothèque
 
 ### Échanges de messages entre processus
 ![](mpi.gif)
+
 Source: https://computing.llnl.gov/tutorials/mpi/
 
 
