@@ -1,5 +1,8 @@
 # CORBA
-![](corbaicon.png)
+
+![](corbaicon.png)\
+
+
 CORBA, acronyme de Common Object Request Broker Architecture, 
 est une architecture logicielle pour le développement de composants et d’object request broker (ORB). 
 Ces composants qui sont assemblés afin de construire des applications complètes, 
