@@ -10,7 +10,11 @@ sur des ***systèmes à mémoire distribuée***. Elle définit une bibliothèque
 
 ### Échanges de messages entre processus
 ![](mpi.png)
+Source: https://computing.llnl.gov/tutorials/mpi/
 
-Source: https://fr.wikipedia.org/wiki/Message_Passing_Interface
 
 Bonne lecture !
+
+
+
+Source: https://fr.wikipedia.org/wiki/Message_Passing_Interface
