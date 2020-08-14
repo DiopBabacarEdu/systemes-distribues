@@ -9,7 +9,7 @@ Elle est devenue de facto un **standard de communication** pour des nœuds exéc
 sur des ***systèmes à mémoire distribuée***. Elle définit une bibliothèque de fonctions, utilisable avec les langages C, C++ et Fortran.
 
 ### Échanges de messages entre processus
-![](mpi.png)
+![](mpi.gif)
 Source: https://computing.llnl.gov/tutorials/mpi/
 
 
