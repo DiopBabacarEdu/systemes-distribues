@@ -1,4 +1,4 @@
-#Les réseaux de capteurs sans fil
+# Les réseaux de capteurs sans fil
 
 Un réseau de capteurs sans fil est un réseau ad hoc d'un grand nombre de nœuds, 
 qui sont des micro-capteurs capables de recueillir et de transmettre des données d'une manière autonome. 
