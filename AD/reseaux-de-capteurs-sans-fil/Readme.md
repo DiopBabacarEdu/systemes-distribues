@@ -5,4 +5,6 @@ qui sont des micro-capteurs capables de recueillir et de transmettre des donnée
 La position de ces nœuds n'est pas obligatoirement prédéterminée. Ils peuvent être aléatoirement répartis 
 dans une zone géographique, intitulée « champ de captage » correspondant au terrain concerné pour le phénomène capté.
 
+![](wsn.png)
+
 Source: https://fr.wikipedia.org/wiki/R%C3%A9seau_de_capteurs_sans_fil
