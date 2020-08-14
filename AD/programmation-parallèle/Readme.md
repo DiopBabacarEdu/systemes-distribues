@@ -29,7 +29,7 @@ Initialement, c'est dans le domaine des supercalculateurs que le parallélisme a
 
 Contenu textuel adapté<sup>[[1]](#alchemy-docs-1)</sup>\
 
-<a name="sqlalchemy-docs-1">[1]</a>: https://www.omnisci.com/technical-glossary/parallel-computing\
+<a name="sqlalchemy-docs-1">[1]</a>: https://www.omnisci.com/technical-glossary/parallel-computing \
 <a name="sqlalchemy-docs-2">[2]</a>: https://fr.wikipedia.org/wiki/Parall%C3%A9lisme_(informatique)
 
 Bonne lecture !
