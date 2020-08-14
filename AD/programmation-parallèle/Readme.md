@@ -10,8 +10,9 @@ En effet, la vitesse de traitement qui est liée à l'augmentation de la fréque
 La création de processeurs multi-cœurs, traitant plusieurs instructions en même temps au sein du même composant, 
 résout ce dilemme pour les machines de bureau depuis le milieu des années 2000.
 
+### Division d'un problème en sous-problèmes
 ![](parallel.png)
-Source: https://www.omnisci.com/technical-glossary/parallel-computing
+Source de l'image<sup>[[1]](#alchemy-docs-1)</sup>
 
 Le calcul parallèle est incontournable dans certains domaines : 
 - la dynamique des fluides, 
@@ -26,7 +27,9 @@ Le calcul parallèle est incontournable dans certains domaines :
 
 Initialement, c'est dans le domaine des supercalculateurs que le parallélisme a été utilisé, à des fins scientifiques.
 
-Source: Adapté de https://fr.wikipedia.org/wiki/Parall%C3%A9lisme_(informatique)
+Contenu textuel adapté<sup>[[1]](#alchemy-docs-1)</sup>\
 
+<a name="sqlalchemy-docs-1">[1]</a>: https://www.omnisci.com/technical-glossary/parallel-computing\
+<a name="sqlalchemy-docs-2">[2]</a>: https://fr.wikipedia.org/wiki/Parall%C3%A9lisme_(informatique)
 
 Bonne lecture !
