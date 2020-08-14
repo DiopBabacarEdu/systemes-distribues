@@ -17,5 +17,5 @@ Bonne lecture !
 
 
 
-<a name="sqlalchemy-docs-1">[1]</a>: https://fr.wikipedia.org/wiki/Message_Passing_Interface
+<a name="sqlalchemy-docs-1">[1]</a>: https://fr.wikipedia.org/wiki/Message_Passing_Interface \
 <a name="sqlalchemy-docs-2">[2]</a>:  https://computing.llnl.gov/tutorials/mpi/
